@@ -11,6 +11,7 @@
     "@hashgraph/sdk": "^2.75.0",
     "cors": "^2.8.5",
     "dotenv": "^16.6.1",
-    "express": "^4.21.2"
+    "express": "^4.21.2",
+    "multer": "^2.0.2"
   }
 }
