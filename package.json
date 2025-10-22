@@ -1,0 +1,16 @@
+{
+  "name": "hedera-backend",
+  "version": "1.0.0",
+  "description": "Hedera backend API",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "@hashgraph/sdk": "^2.75.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.6.1",
+    "express": "^4.21.2"
+  }
+}
